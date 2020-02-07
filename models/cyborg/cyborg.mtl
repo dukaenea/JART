@@ -1,0 +1,17 @@
+# Blender MTL File: 'rendering_competition.blend'
+# Material Count: 1
+
+newmtl Cyborg
+Ns 0.1000000
+Ka 0.1000000 0.100000 0.100000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump default_normal.png
+map_Kd default_defuse.png
+map_Ke default_emissive.png
+map_Ks default_roughness.png
+

@@ -1,0 +1,13 @@
+# Blender MTL File: 'rendering_competition.blend'
+# Material Count: 1
+
+newmtl terrain_texture
+Ns 0.0
+Ka 0.000000 0.000000 0.000000
+Kd 1.00000 1.00000 1.00000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd terrain_difuse.png

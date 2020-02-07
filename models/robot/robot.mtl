@@ -1,0 +1,17 @@
+# Blender MTL File: 'rendering_competition.blend'
+# Material Count: 1
+
+newmtl robot_material
+Ns 0.500000
+Ka 0.100000 0.100000 0.100000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump robot_bump.png
+map_Kd robot_deffuse.png
+map_Ke robot_emission.png
+map_Ks robot_specular.png
+refl robo-obj-pose4\\textures\\98a91fc2e52c4db6a4be147a471e98ca.jpeg
