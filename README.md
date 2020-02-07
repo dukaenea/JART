@@ -1,2 +1,3 @@
 # JARTS
-Just Another Ray Tracing System
+
+## Just Another Ray Tracing System
