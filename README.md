@@ -36,6 +36,5 @@ This Ray Tracer was created for the [Computer Graphics course at Saarland Univer
 - Environment Coordmapper (to implement environment mapping)
 
 ### Rendered Example
-
-![Rendered Example]
-(https://raw.githubusercontent.com/dukaenea/JART/master/scene_full.png)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
