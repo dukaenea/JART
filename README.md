@@ -35,3 +35,5 @@ This Ray Tracer was created for the [Computer Graphics course at Saarland Univer
 - Triangle Coordmapper
 - Environment Coordmapper (to implement environment mapping)
 
+### Rendered Example
+
