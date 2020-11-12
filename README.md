@@ -37,3 +37,5 @@ This Ray Tracer was created for the [Computer Graphics course at Saarland Univer
 
 ### Rendered Example
 
+![Rendered Example]
+(https://raw.githubusercontent.com/dukaenea/JART/master/scene_full.png)
